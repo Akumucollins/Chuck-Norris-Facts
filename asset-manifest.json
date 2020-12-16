@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akumucollins/Chuck-Norris-Facts/static/css/main.87316604.chunk.css",
+    "main.js": "/Akumucollins/Chuck-Norris-Facts/static/js/main.76ad4c73.chunk.js",
+    "main.js.map": "/Akumucollins/Chuck-Norris-Facts/static/js/main.76ad4c73.chunk.js.map",
+    "runtime-main.js": "/Akumucollins/Chuck-Norris-Facts/static/js/runtime-main.a79244d7.js",
+    "runtime-main.js.map": "/Akumucollins/Chuck-Norris-Facts/static/js/runtime-main.a79244d7.js.map",
+    "static/js/2.349957bc.chunk.js": "/Akumucollins/Chuck-Norris-Facts/static/js/2.349957bc.chunk.js",
+    "static/js/2.349957bc.chunk.js.map": "/Akumucollins/Chuck-Norris-Facts/static/js/2.349957bc.chunk.js.map",
+    "static/js/3.f62f22db.chunk.js": "/Akumucollins/Chuck-Norris-Facts/static/js/3.f62f22db.chunk.js",
+    "static/js/3.f62f22db.chunk.js.map": "/Akumucollins/Chuck-Norris-Facts/static/js/3.f62f22db.chunk.js.map",
+    "index.html": "/Akumucollins/Chuck-Norris-Facts/index.html",
+    "static/css/main.87316604.chunk.css.map": "/Akumucollins/Chuck-Norris-Facts/static/css/main.87316604.chunk.css.map",
+    "static/js/2.349957bc.chunk.js.LICENSE.txt": "/Akumucollins/Chuck-Norris-Facts/static/js/2.349957bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a79244d7.js",
+    "static/js/2.349957bc.chunk.js",
+    "static/css/main.87316604.chunk.css",
+    "static/js/main.76ad4c73.chunk.js"
+  ]
+}
